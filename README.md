@@ -34,3 +34,23 @@ A simple Java console-based application to manage employee records. This project
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/EmployeeRecordSystem.git
+
+## 📁 Project Structure
+
+```
+src/
+├── Main.java
+├── Employee.java
+├── EmployeeService.java
+```
+
+## 🚀 How to Run
+
+1. Clone or download the project  
+2. Open in Eclipse or any Java IDE  
+3. Run `Main.java` file
+
+## 👨‍💻 Author
+
+**Siam Hossain**  
+[GitHub – SiamBytes](https://github.com/SiamBytes)
